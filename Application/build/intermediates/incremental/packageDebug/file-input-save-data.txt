@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Fri Aug 16 17:16:33 CST 2019
+2.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listitem_device.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\gatt_services_characteristics.xml
+5.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\gatt_services.xml
+9.set=ANDROID_RESOURCE
+9.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\actionbar_indeterminate_progress.xml
+10.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

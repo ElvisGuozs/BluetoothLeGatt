@@ -54,6 +54,7 @@ public class DeviceControlActivity extends Activity {
     private TextView mConnectionState;
     private TextView mDataField;
     private TextView mRssiField;
+    private TextView mDistanceField;
     private String mDeviceName;
     private String mDeviceAddress;
     private ExpandableListView mGattServicesList;
@@ -173,6 +174,7 @@ public class DeviceControlActivity extends Activity {
         mConnectionState = (TextView) findViewById(R.id.connection_state);
         mDataField = (TextView) findViewById(R.id.data_value);
         mRssiField = (TextView) findViewById(R.id.data_rssi);
+        mDistanceField = (TextView) findViewById(R.id.data_distance);
 
         getActionBar().setTitle(mDeviceName);
         getActionBar().setDisplayHomeAsUpEnabled(true);
@@ -211,7 +213,7 @@ public class DeviceControlActivity extends Activity {
                     //如果读取蓝牙RSSi回调成功
                     if(mBluetoothLeService != null && mBluetoothLeService.getRssiVal()){
                         //获取已经读到的RSSI值
-    //                    Rssi=BluetoothLeService.getBLERSSI();
+//                        Rssi=BluetoothLeService.getBLERSSI();
     //                    mHandler.obtainMessage(READRSSI, Rssi).sendToTarget();
                     }
                 }
@@ -287,7 +289,18 @@ public class DeviceControlActivity extends Activity {
     private void displayRssi(String rssi) {
         if (rssi != null) {
             mRssiField.setText(rssi);
+            mDistanceField.setText(calDistance(Double.valueOf(rssi)));
         }
+    }
+
+    private String calDistance(double rssi) {
+        double Rssi = Math.abs(rssi);
+        double power = (Rssi - 54) / (10.0 * 2.6);
+        //80=10米    55=1米
+        String location=String.valueOf(Math.pow(10, power));
+        if (location.length() >= 6)
+            return location.substring(0,6)+"米";
+        else return location+"米";
     }
 
     // Demonstrates how to iterate through the supported GATT Services/Characteristics.
