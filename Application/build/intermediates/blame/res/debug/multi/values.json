@@ -1,0 +1,836 @@
+[
+    {
+        "outputFile": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 61,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 61,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 63,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 58,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 58,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 56,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 56,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 53,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 53,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 69,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 42,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 43,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 44,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 42,
+                    "endOffset": 1336
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1341,
+                    "endColumn": 41,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 67,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 52,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 52,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endColumn": 66,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 66,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 47,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 47,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endColumn": 53,
+                    "endOffset": 1668
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 53,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1673,
+                    "endColumn": 82,
+                    "endOffset": 1751
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 82,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1756,
+                    "endLine": 31,
+                    "endColumn": 13,
+                    "endOffset": 2015
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endLine": 27,
+                        "endColumn": 13,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2020,
+                    "endColumn": 44,
+                    "endOffset": 2060
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 44,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2065,
+                    "endColumn": 64,
+                    "endOffset": 2125
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 64,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2130,
+                    "endColumn": 44,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 44,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 46,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 46,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2222,
+                    "endColumn": 48,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1507,
+                        "endColumn": 48,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2271,
+                    "endColumn": 54,
+                    "endOffset": 2321
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 54,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2326,
+                    "endColumn": 42,
+                    "endOffset": 2364
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1611,
+                        "endColumn": 42,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2369,
+                    "endColumn": 42,
+                    "endOffset": 2407
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 42,
+                        "endOffset": 1692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2412,
+                    "endColumn": 43,
+                    "endOffset": 2451
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 43,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2456,
+                    "endColumn": 46,
+                    "endOffset": 2498
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 46,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2503,
+                    "endColumn": 57,
+                    "endOffset": 2556
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 57,
+                        "endOffset": 1201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2561,
+                    "endColumn": 73,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1348,
+                        "endColumn": 73,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2635,
+                    "endColumn": 57,
+                    "endOffset": 2688
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 57,
+                        "endOffset": 1343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2693,
+                    "endColumn": 59,
+                    "endOffset": 2748
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1422,
+                        "endColumn": 59,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2753,
+                    "endColumn": 50,
+                    "endOffset": 2799
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2804,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3265
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3270,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3391
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3396,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3519
+                },
+                "from": {
+                    "file": "C:\\Users\\G\\.android\\build-cache\\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2699,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3524,
+                    "endColumn": 59,
+                    "endOffset": 3579
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3584,
+                    "endColumn": 52,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 26,
+                    "endOffset": 3659
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3664,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3855
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3860,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 4133
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

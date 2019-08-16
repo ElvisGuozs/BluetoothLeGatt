@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    }
+]

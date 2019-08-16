@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "E:\\projects\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "E:\\projects\\BluetoothLeGatt\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 752
+                    }
+                }
+            }
+        ]
+    }
+]

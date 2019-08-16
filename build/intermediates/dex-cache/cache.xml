@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\G\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\projects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_482fc35fcb6c474988e78f8d2008592eecbc11b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G\.android\build-cache\84d0013cd3d51387150f7d0252f5fd0f2cbe4d0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\projects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_69f3ba560d543cf11d189476968dcd0e43e0e60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G\.android\build-cache\84d0013cd3d51387150f7d0252f5fd0f2cbe4d0a\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\projects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4cec96b0fb6a6b32400af4395c1a512b5c0bd165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G\.android\build-cache\64ef4044c1ddb97a61e76818ff05ef79e2fb5fbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\projects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_574df43aa8a97790a8c335d617a8a737f9dd0027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G\.android\build-cache\3b893ea5021fcc3f663bfdd43d268585243e1557\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="E:\projects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_35c877fd7ef79310b6743251d0a9493da79c243a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G\.android\build-cache\3b893ea5021fcc3f663bfdd43d268585243e1557\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="E:\projects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_afa0788711278ff6236f03d3f50339646ce1fd45.jar" />
+    </item>
+
+</items>
